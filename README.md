@@ -1,5 +1,5 @@
 # Automation-of-cyberbullying-detection-using-Character-level-CNN
-# Python script that uses the tkinter library to create a graphical user interface (GUI) for a cyberbullying detection system. Here is a breakdown of the code:
+# Python script that uses the tkinter library to create a graphical user interface (GUI) for a cyberbullying detection system. Here is a breakdown of the driver (or main.py)code:
 
 The code begins by importing various modules from the `tkinter`, `matplotlib`, `nltk`, `keras`, `string`, `os`, and `pandas` libraries.
 It creates a tkinter window object and sets its title and geometry.
