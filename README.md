@@ -2,7 +2,7 @@
 Python script that uses the tkinter library to create a graphical user interface (GUI) for a cyberbullying detection system. Here is a breakdown of the code:
 
 The code begins by importing various modules from the tkinter, matplotlib, nltk, keras, string, os, and pandas libraries.
-It creates a tkinter window object and sets its title and geometry.
+# It creates a tkinter window object and sets its title and geometry.
 Several global variables are declared to store information related to the model, dataset, and evaluation metrics.
 The code defines several functions that will be used in the GUI:
 uploadDataset(): Allows the user to select a dataset file using a file dialog.
