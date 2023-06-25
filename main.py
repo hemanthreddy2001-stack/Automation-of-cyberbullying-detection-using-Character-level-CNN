@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 16 14:54:35 2021
-
-@author: mahesh pala
-"""
-
 from tkinter import messagebox
 from tkinter import *
 from tkinter import simpledialog
